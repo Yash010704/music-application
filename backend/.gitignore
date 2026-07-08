@@ -1,0 +1,12 @@
+target/
+*.class
+*.log
+.idea/
+*.iml
+.vscode/
+.DS_Store
+uploads/songs/*
+uploads/covers/*
+!uploads/songs/.gitkeep
+!uploads/covers/.gitkeep
+application-local.properties
